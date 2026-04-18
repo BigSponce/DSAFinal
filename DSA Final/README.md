@@ -1,4 +1,4 @@
-*** Application Theory
+Application Theory
 
 1. Why does an inorder traversal of a BST return sorted results?
 A. Traversal follows a strict "left, root, right" order but for this project and the idea of priorities, I flipped the order showing "right, root, left".
